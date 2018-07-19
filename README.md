@@ -7,7 +7,8 @@ This program is a command line interface for getting the weather of a certain lo
 It takes in an address as an argument and returns the current weather conditions of that area (using longitude and latitude).
 Most of the code is written under the guidance of the class.
 
-I also decided to have some fun and implemented a 'default location' to return the weather of when you call '''javascript
+I also decided to have some fun and implemented a 'default location' to return the weather of when you call 
+```
 node app-promise.js
-''' 
+```
 with no flags, set using the _-d_ flag.
